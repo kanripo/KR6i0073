@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:04.994098
+#+DATE: 2015-08-30 20:09:06.121560
 #+TITLE: 佛說大乘善見變化文殊師利問法經
 #+PROPERTY: CBETA_ID T14n0472
 #+PROPERTY: ID KR6i0073
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 472
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0073_T_001-0514c> 
 #+PROPERTY: JUAN 1
 ¶
-No.472¶
-
- 佛說大乘善見變化文殊師利問¶
+No. 472¶
+佛說大乘善見變化文殊師利問¶
 法經¶
 ¶
 西天中印度，惹爛馱囉國密林寺，三藏明¶
@@ -52,7 +51,7 @@ No.472¶
 得隨意生。若觀我見，不離道諦，即得彼法，所
 <pb:KR6i0073_T_001-0515a>¶
 作隨意。復於彼法，憶念無惑，於一切法，心無¶
-差別，能如是知，即得遠離不信、疑惑、毀謗、¶
+差別，能如是知，即得遠離不信、癡惑、毀謗、¶
 讚歎，得此解脫一切我苦。我於是時，無有少¶
 分，而難作者。若阿羅漢能知此我，彼臨命終¶
 時，自見所生，棄捨本心得佛菩提，隨意所樂¶
