@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘善見變化文殊師利問法經
+#+DATE: 2015-08-30 20:09:05.199502
+#+PROPERTY: JUAN 0
