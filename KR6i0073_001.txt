@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:05.574002
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:33
 #+TITLE: 佛說大乘善見變化文殊師利問法經
 #+PROPERTY: CBETA_ID T14n0472
 #+PROPERTY: ID KR6i0073
